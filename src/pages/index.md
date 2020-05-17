@@ -15,7 +15,7 @@ mainpitch:
     And we'd go for probably, we'd write ten more lines anyway. And we'd get up the following morning and Maureen would have the fry on.
 
     And we'd go at it again.
-description: justsendit.ie is a platform for technical blogger who hate doing
+description: justsendit.ie is a platform for technical bloggers who hate doing
   things manually. You'll find a mixture of blogs on random musings, interesting
   experiments with original solutions and reviews and how tos on interesting
   software and technology thats already out in the open. There is no schedule
