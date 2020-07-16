@@ -53,7 +53,7 @@ In the linked [github](https://github.com/shanenolanwit/tunnel-snakes-101/blob/m
 * find and graph the most frequent words across all intents
 * find and graph the most frequent words for each intent
 
-```
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
