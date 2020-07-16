@@ -8,9 +8,9 @@ description: below you'll find links to modules we think you'll love, pick one,
   download it, read the instructions and just send it
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/losty.png
       text: this wee module does some cool things with regex
-    - image: /img/coffee-gear.png
+    - image: /img/losty.png
       text: this thing is just a tidy little script for scraping some website
   heading: What we offer
   description: |
@@ -22,10 +22,10 @@ main:
     justsendit spirit. Get in touch. 
   image1:
     alt: What is this picture
-    image: /img/products-grid3.jpg
+    image: /img/losty.png
   image2:
     alt: So many pictures
-    image: /img/products-grid2.jpg
+    image: /img/losty.png
   image3:
     alt: yeah this is a good pic
     image: /img/products-grid1.jpg
